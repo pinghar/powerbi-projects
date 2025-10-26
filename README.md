@@ -26,7 +26,7 @@ This Power BI project showcases business insights for the Adventure Works datase
 ## 📂 Files Included
 | File | Description |
 |------|--------------|
-| `AW_Report.pbix` | Main Power BI dashboard file |
+| [AW_Report.pbix](https://github.com/pinghar/powerbi-projects/blob/main/AW_Report.pbix) | Main Power BI dashboard file |
 | (Add screenshots here later as .png) | Visual overview of your dashboard |
 
 ---
